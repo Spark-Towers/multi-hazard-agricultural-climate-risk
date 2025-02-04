@@ -33,7 +33,7 @@ The repository provides all necessary scripts to replicate data preprocessing, c
 
 1. Clone the repository:
    ```bash
-   git clone[ https://github.com/your-repo-name.git](https://github.com/Spark-Towers/multi-hazard-agricultural-climate-risk.git)
+   git clone https://github.com/Spark-Towers/multi-hazard-agricultural-climate-risk.git
    cd multi-hazard-agricultural-climate-risk
    ```
 2. Create a virtual environment (optional but recommended):
