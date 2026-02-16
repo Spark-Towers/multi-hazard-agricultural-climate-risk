@@ -92,14 +92,16 @@ __pycache__/
 - **Mohammade Check** *(mohammade.check@sparktowers.com)*
 
 ## **Research Contribution**
-This repository provides a computational framework to:
-- Identify **spatially and temporally varying hazard risks**.
-- Quantify **multi-hazard interactions and cascading effects** on maize yield.
-- Test statistical models to **predict agricultural risks and productivity shifts**.
-- Offer insights into **adaptation strategies** for mitigating climate risks in agriculture.
+This repository provides a reproducible analytical framework to:
+- Identify structural and territorial patterns of vulnerability across South African maize farming systems.
+- Quantify synergies and trade-offs between sensitivity and adaptive capacity indicators.
+- Assess how different vulnerability dimensions interact across natural, social, human, physical, and financial capitals.
+- Detect statistically significant relationships using Pearson correlations with multiple-testing corrections (FDR and Bonferroni).
+- Explore structural relationships through Principal Component Analysis (PCA) at city and typology levels.
+- Generate spatially interpretable visual outputs (radar glyphs, heatmaps, biplots) to support territorial comparison.
 
-The provided code enables researchers and policymakers to analyze **multi-hazard agricultural risks** in different contexts and apply **data-driven decision-making** to climate adaptation strategies.
+The code enables researchers and policymakers to analyze multi-dimensional vulnerability structures, identify reinforcing or counteracting mechanisms across capitals, and support evidence-based climate adaptation strategies in agricultural systems.
 
 ## **Authors & Citation**
 If you use this repository in your research, please cite:
-> **S. Grosse, T. Berchoux, H. Belhouchette, M. Check, N. Baghdadi (2024).** Assessing Multi-Hazard Risk Dynamics in South African Maize Production. [Journal Name].
+> **S. Grosse, T. Berchoux, M. Check, H. Belhouchette, N. Baghdadi (2026).** Synergies and trade-offs in vulnerability to climate hazard: a structural and territorial analysis of South African maize farming systems. [Journal Name].
